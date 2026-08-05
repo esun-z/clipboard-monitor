@@ -1,0 +1,21 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+bin/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Temp and log files
+*.log
+temp_clipboard_image.png
+
+# Art
+icon/
+
+# local scripts
+scripts/
